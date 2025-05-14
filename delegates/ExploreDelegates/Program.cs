@@ -1,4 +1,5 @@
-﻿using Microsoft.Win32.SafeHandles;
+﻿using System.Threading.Tasks.Dataflow;
+using Microsoft.Win32.SafeHandles;
 
 namespace ExploreDeletages;
 
@@ -56,7 +57,7 @@ class Program
         // firstDelegate(nb1);
 
         // utilizing the .Invoke() method for calling delegates
-        firstDelegate.Invoke(nb1);
+        // firstDelegate.Invoke(nb1);
 
         // to remove i can say in my DelegateHandler(FirstDelegate delg) method
 
@@ -70,19 +71,74 @@ class Program
 
 
         // Dynamic Delegate handler
-        GenericDelegateHandler(firstDelegate);
-        
-        
+        // GenericDelegateHandler(firstDelegate);
+
+
         // GenericDelegateHandler(stringDel);
         // throws error since, the delegate below is passing deleg?.DynamicInvoke(23)
         // string cannot be converted to int type
 
+
+
+
+
+
+
+
+
+
+        // Actions
+        // they are shortcut's to delegates
+        // ACTIONS DO NOT RETURN ANYTHING, I.E. THEIR DELEGATE SIGNATURE IS void
+        // public delegate void Method([parameter might exist]);
+
+
+        // action = public delegate void Action();
+        // Action action = PrintHello;
+        // action += SaySomething;
+
+        // so this basically tells the compiler, hey since the MultiplyNumber is 
+        // taking a integer parameter, look at the <int> generic in my Action class
+        // it means we can now invoke the action2 like action2(34) for example
+        // Action<int> action2 = MultiplyNumber;
+        // action2 = public delegate void MultiplyDelegate(int num);
+
+        // we can add up to 16 parameters
+        // no return value
+        // Action<int, int, int, int, int, int, int, int, int> action3 = (a, b, c, d, e, f, g, h, i) => Console.WriteLine("hi");
+
+
+        // action.Invoke();
+
+
+
+
+
+
+
+
+
+
+
+        // func
+
+        // the order of the Func<int,int> matters
+        // the last one is the return type
+        // the types before that are the parameter types
+        Func<int, int> func1 = ReturnNum;
+        // func1 =  public delegate int FuncDelegate(int num);
+        Console.WriteLine($"The returned number is {func1.Invoke(3)}");
     }
 
 
     public static void SaySomething(string name)
     {
         Console.WriteLine($"Hey i am saying something. {name}");
+    }
+
+    public static void SaySomething()
+    {
+        Console.WriteLine($"Hey i am saying something. no parameter");
     }
 
     public static void PrintNumber(int nb)
@@ -100,6 +156,17 @@ class Program
     {
         nb += 200;
         Console.WriteLine($"The sum of the number is : {nb}");
+    }
+
+    public static void PrintHello()
+    {
+        Console.WriteLine("Hello");
+    }
+
+
+    public static int ReturnNum(int a)
+    {
+        return a + a;
     }
 
     // this method accepts a delegate method and handles it
@@ -121,8 +188,11 @@ class Program
     }
 
 
-    // Dynamic Invoke
 
+
+
+    // Dynamic Invoke
+    // when we do not know the delegate we are using.
 
     // handling invocation of unknown delegates dynamically
     // Delegate is the base class of all delegates

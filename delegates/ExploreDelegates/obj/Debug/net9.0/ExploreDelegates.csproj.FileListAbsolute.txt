@@ -12,3 +12,4 @@ C:\Users\ashish\Desktop\1_c# advanced\delegates\ExploreDelegates\obj\Debug\net9.
 C:\Users\ashish\Desktop\1_c# advanced\delegates\ExploreDelegates\obj\Debug\net9.0\ExploreDelegates.pdb
 C:\Users\ashish\Desktop\1_c# advanced\delegates\ExploreDelegates\obj\Debug\net9.0\ExploreDelegates.genruntimeconfig.cache
 C:\Users\ashish\Desktop\1_c# advanced\delegates\ExploreDelegates\obj\Debug\net9.0\ref\ExploreDelegates.dll
+C:\Users\ashish\Desktop\1_c# advanced\delegates\ExploreDelegates\obj\Debug\net9.0\ExploreDelegates.sourcelink.json
