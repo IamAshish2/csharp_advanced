@@ -1,0 +1,12 @@
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\bin\Debug\net9.0\GradingLib.deps.json
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\bin\Debug\net9.0\GradingLib.dll
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\bin\Debug\net9.0\GradingLib.pdb
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\GradingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\GradingLib.AssemblyInfoInputs.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\GradingLib.AssemblyInfo.cs
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\GradingLib.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\GradingLib.sourcelink.json
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\GradingLib.dll
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\refint\GradingLib.dll
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\GradingLib.pdb
+C:\Users\ashish\Desktop\1_c# advanced\delegates\real-world-delegates\GradingLib\obj\Debug\net9.0\ref\GradingLib.dll
