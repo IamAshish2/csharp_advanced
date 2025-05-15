@@ -1,0 +1,6 @@
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\DemoLibrary\obj\Debug\DemoLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\obj\Debug\WinFormUI.csproj.Up2Date
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\WinFormUI\obj\Debug\WinFormUI.pdb

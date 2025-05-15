@@ -1,0 +1,10 @@
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\obj\Debug\ConsoleUI.csproj.Up2Date
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\ashish\Desktop\1_c# advanced\delegates\delegates_in_c#\ConsoleUI\obj\Debug\ConsoleUI.pdb
