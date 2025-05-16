@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\ashish\\desktop\\1_c# advanced\\generics\\genericsdemo_start\\consoleui\\withgenerics\\generictextfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\withgenerics\\generictextfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\consoleui\\withoutgenerics\\originaltextfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\withoutgenerics\\originaltextfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\consoleui\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\consoleui\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A02589-C0AD-41EC-99A9-57E3F15D10A6}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericTextFileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\WithGenerics\\GenericTextFileProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\WithGenerics\\GenericTextFileProcessor.cs",
+              "ToolTip": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\WithGenerics\\GenericTextFileProcessor.cs",
+              "RelativeToolTip": "ConsoleUI\\WithGenerics\\GenericTextFileProcessor.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAtwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:46:18.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwFUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:30:44.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OriginalTextFileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\WithoutGenerics\\OriginalTextFileProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\WithoutGenerics\\OriginalTextFileProcessor.cs",
+              "ToolTip": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\WithoutGenerics\\OriginalTextFileProcessor.cs",
+              "RelativeToolTip": "ConsoleUI\\WithoutGenerics\\OriginalTextFileProcessor.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:15:37.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Models\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\Models\\LogEntry.cs",
+              "RelativeToolTip": "ConsoleUI\\Models\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:14:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\generics\\GenericsDemo_Start\\ConsoleUI\\Models\\Person.cs",
+              "RelativeToolTip": "ConsoleUI\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:14:42.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
