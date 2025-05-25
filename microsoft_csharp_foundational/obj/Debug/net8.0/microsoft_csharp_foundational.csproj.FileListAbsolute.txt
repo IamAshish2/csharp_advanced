@@ -1,0 +1,14 @@
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\bin\Debug\net8.0\microsoft_csharp_foundational.exe
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\bin\Debug\net8.0\microsoft_csharp_foundational.deps.json
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\bin\Debug\net8.0\microsoft_csharp_foundational.runtimeconfig.json
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\bin\Debug\net8.0\microsoft_csharp_foundational.dll
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\bin\Debug\net8.0\microsoft_csharp_foundational.pdb
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\microsoft_csharp_foundational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\microsoft_csharp_foundational.AssemblyInfoInputs.cache
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\microsoft_csharp_foundational.AssemblyInfo.cs
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\microsoft_csharp_foundational.csproj.CoreCompileInputs.cache
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\microsoft_csharp_foundational.dll
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\refint\microsoft_csharp_foundational.dll
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\microsoft_csharp_foundational.pdb
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\microsoft_csharp_foundational.genruntimeconfig.cache
+C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\obj\Debug\net8.0\ref\microsoft_csharp_foundational.dll
