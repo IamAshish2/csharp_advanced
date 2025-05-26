@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashish\\RiderProjects\\microsoft_csharp_foundational\\microsoft_csharp_foundational.csproj": {}
+    "C:\\Users\\ashish\\Desktop\\1_c# advanced\\microsoft_csharp_foundational\\microsoft_csharp_foundational.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashish\\RiderProjects\\microsoft_csharp_foundational\\microsoft_csharp_foundational.csproj": {
+    "C:\\Users\\ashish\\Desktop\\1_c# advanced\\microsoft_csharp_foundational\\microsoft_csharp_foundational.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashish\\RiderProjects\\microsoft_csharp_foundational\\microsoft_csharp_foundational.csproj",
+        "projectUniqueName": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\microsoft_csharp_foundational\\microsoft_csharp_foundational.csproj",
         "projectName": "microsoft_csharp_foundational",
-        "projectPath": "C:\\Users\\ashish\\RiderProjects\\microsoft_csharp_foundational\\microsoft_csharp_foundational.csproj",
+        "projectPath": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\microsoft_csharp_foundational\\microsoft_csharp_foundational.csproj",
         "packagesPath": "C:\\Users\\ashish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashish\\RiderProjects\\microsoft_csharp_foundational\\obj\\",
+        "outputPath": "C:\\Users\\ashish\\Desktop\\1_c# advanced\\microsoft_csharp_foundational\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = microsoft_csharp_foundational
-build_property.ProjectDir = C:\Users\ashish\RiderProjects\microsoft_csharp_foundational\
+build_property.ProjectDir = C:\Users\ashish\Desktop\1_c# advanced\microsoft_csharp_foundational\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

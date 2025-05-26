@@ -1,0 +1,15 @@
+C:\Users\ashish\Desktop\1_c# advanced\debugging\bin\Debug\net9.0\debugging.exe
+C:\Users\ashish\Desktop\1_c# advanced\debugging\bin\Debug\net9.0\debugging.deps.json
+C:\Users\ashish\Desktop\1_c# advanced\debugging\bin\Debug\net9.0\debugging.runtimeconfig.json
+C:\Users\ashish\Desktop\1_c# advanced\debugging\bin\Debug\net9.0\debugging.dll
+C:\Users\ashish\Desktop\1_c# advanced\debugging\bin\Debug\net9.0\debugging.pdb
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\debugging.AssemblyInfoInputs.cache
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\debugging.AssemblyInfo.cs
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\debugging.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\debugging.sourcelink.json
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\debugging.dll
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\refint\debugging.dll
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\debugging.pdb
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\debugging.genruntimeconfig.cache
+C:\Users\ashish\Desktop\1_c# advanced\debugging\obj\Debug\net9.0\ref\debugging.dll
