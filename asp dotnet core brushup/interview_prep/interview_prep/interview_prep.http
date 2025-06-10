@@ -1,0 +1,6 @@
+@interview_prep_HostAddress = http://localhost:5267
+
+GET {{interview_prep_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
