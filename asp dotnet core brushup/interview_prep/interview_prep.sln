@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interview_prep", "interview_prep\interview_prep.csproj", "{5AFA07CD-54A3-45D8-BBDC-AA52E9DF9092}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyIntegration", "ThirdPartyIntegration\ThirdPartyIntegration.csproj", "{5AFA07CD-54A3-45D8-BBDC-AA52E9DF9092}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
