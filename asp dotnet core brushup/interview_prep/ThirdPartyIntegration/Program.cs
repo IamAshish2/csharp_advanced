@@ -26,6 +26,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JWT"));
 builder.Services.Configure<CloudinarySettings>(builder.Configuration.GetSection("Cloudinary"));
+builder.Services.Configure<ESewa>(builder.Configuration.GetSection("ESewa"));
 
 builder.Services.AddIdentity<User, IdentityRole>(options =>
 {
